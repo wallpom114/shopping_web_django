@@ -1,6 +1,7 @@
-# Phân loại HTML/CSS thành file documentation
+# Phân loại HTML/CSS/SCSS thành file documentation
 *.html linguist-documentation
 *.css linguist-documentation
+*.scss linguist-documentation
 
 # Đảm bảo Python được nhận diện
 *.py linguist-language=Python
